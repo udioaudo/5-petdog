@@ -1,0 +1,17 @@
+# Local SDK and caches
+.tools/
+**/bin/
+**/obj/
+.vs/
+
+# Generated artifacts and runtime logs
+artifacts/
+*.user
+*.suo
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

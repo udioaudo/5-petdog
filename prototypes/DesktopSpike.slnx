@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DesktopSpike.Verification/DesktopSpike.Verification.csproj" />
+  <Project Path="DesktopSpike/DesktopSpike.csproj" />
+</Solution>
